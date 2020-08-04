@@ -1,5 +1,5 @@
-## Olá! Obrigado estar aqui!
-# Diego M. Germiniani
+# Olá! Obrigado estar aqui!
+## Diego M. Germiniani
 
 Me chamo Diego e aqui contarei um pouco mais sobre minha história e meu trabalho como desenvolvedor.
 
