@@ -3,7 +3,9 @@ Me chamo Diego e aqui contarei um pouco mais sobre minha história e meu trabalh
 
 No passado, aquiri experiencia em C# quando 'brinquei' por um tempo com desenvolvimento de games no Unity.
 Esse foi o inicio de tudo e isso abriu minha visão para o mundo da tecnologia.
+
 Buscando trilhar esse caminho, ingressei no curso de Ciência da Computação na Universidade Federal de Itajubá.
+
 Atualmente, sou desenvolvedor Java/JavaScript na B2ML Sistemas, localizada em Itajubá-MG.
 Trabalho na B2ML à pouco mais de 1 ano e meio. Embora pareça pouco tempo, tive a oportunidade de planejar, desenvolver e testar aplicações web com as mais variadas finalidades, que vão desde aplicações Java para processamento dados em massa à Sistema de Gerenciamento de RH. Além disso tive a oportinidade de entrar em contato com os mais diversos profissionais e suas expertises.
 Além da minha ocupação fixa, realizo trabalhos como freelancers, onde desenvolvo web sites para profissionais autônomos.
