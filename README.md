@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá! Obrigado estar aqui!
+Me chamo Diego e aqui contarei um pouco mais sobre minha história e meu trabalho como desenvolvedor.
 
-<!--
-**diegomgerminiani/diegomgerminiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No passado, aquiri experiencia em C# quando 'brinquei' por um tempo com desenvolvimento de games no Unity.
+Esse foi o inicio de tudo e isso abriu minha visão para o mundo da tecnologia.
+Buscando trilhar esse caminho, ingressei no curso de Ciência da Computação na Universidade Federal de Itajubá.
+Atualmente, sou desenvolvedor Java/JavaScript na B2ML Sistemas, localizada em Itajubá-MG.
+Trabalho na B2ML à pouco mais de 1 ano e meio. Embora pareça pouco tempo, tive a oportunidade de planejar, desenvolver e testar aplicações web com as mais variadas finalidades, que vão desde aplicações Java para processamento dados em massa à Sistema de Gerenciamento de RH. Além disso tive a oportinidade de entrar em contato com os mais diversos profissionais e suas expertises.
+Além da minha ocupação fixa, realizo trabalhos como freelancers, onde desenvolvo web sites para profissionais autônomos.
 
-Here are some ideas to get you started:
+Como modo de ampliar as minhas possibilidades no mercado de trabalho e abrir meus horizontes no mundo da programação, venho buscando estudar as principais tecnologias do mercado, com um olhar especial às novas tecnologias. Meu foco atual de estudos e aperfeiçoamento encontra-se no ReactJS e seus derivados. Basicamente, foi paixão a primeira vista! hahaha... A velocidade de processamento e a capacidade de reaproveitamento de codigo com que as aplicações React proporcionam é fantástica! Quanto mais estudo, mais me apaixono.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bom, por enquanto é isso! Manterei meu perfil aqui no git atualizado com os meus projetos/aprendizados. Dê uma olhadinha lá ;)
+
+Caso queira me conversar comigo:
+ - Instagram: https://www.instagram.com/m.germiniani/
+ - Twitter: https://twitter.com/dmgerminiani
+ - LinkedIn: www.linkedin.com/in/diego-m-germiniani
