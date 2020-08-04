@@ -13,9 +13,9 @@ Como modo de ampliar as minhas possibilidades no mercado de trabalho e abrir meu
 
 Bom, por enquanto é isso! Manterei meu perfil aqui no git atualizado com os meus projetos/aprendizados. Dê uma olhadinha lá ;)
 
-Minha Stack: Java, JavaScript, TypeScript, NodeJS, ReactJS, React Native.
+<strong>Minha Stack:</strong> Java, JavaScript, TypeScript, NodeJS, ReactJS, React Native.
 
-Caso queira me conversar comigo:
+<strong>Caso queira me conversar comigo:</strong>
  - Instagram: https://www.instagram.com/m.germiniani/
  - Twitter: https://twitter.com/dmgerminiani
  - LinkedIn: www.linkedin.com/in/diego-m-germiniani
