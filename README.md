@@ -1,4 +1,8 @@
 Olá! Obrigado estar aqui!
+
+# Diego M. Germiniani
+
+## Olá! Obrigado estar aqui!
 Me chamo Diego e aqui contarei um pouco mais sobre minha história e meu trabalho como desenvolvedor.
 
 No passado, aquiri experiencia em C# quando 'brinquei' por um tempo com desenvolvimento de games no Unity.
@@ -14,7 +18,10 @@ Como modo de ampliar as minhas possibilidades no mercado de trabalho e abrir meu
 
 Bom, por enquanto é isso! Manterei meu perfil aqui no git atualizado com os meus projetos/aprendizados. Dê uma olhadinha lá ;)
 
+Minha Stack: Java, JavaScript, TypeScript, NodeJS, ReactJS, React Native.
 Caso queira me conversar comigo:
  - Instagram: https://www.instagram.com/m.germiniani/
  - Twitter: https://twitter.com/dmgerminiani
  - LinkedIn: www.linkedin.com/in/diego-m-germiniani
+ 
+
