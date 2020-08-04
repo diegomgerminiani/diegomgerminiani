@@ -1,7 +1,7 @@
 # Olá! Obrigado estar aqui!
 ## Diego M. Germiniani
 
-Me chamo Diego e aqui contarei um pouco mais sobre minha história e meu trabalho como desenvolvedor.
+Aqui contarei um pouco mais sobre minha história e meu trabalho como desenvolvedor.
 
 No passado, adquiri experiencia em C# quando 'brinquei' por um tempo com desenvolvimento de games no Unity. Esse foi o inicio de tudo e isso abriu minha visão para o mundo da tecnologia.
 
