@@ -13,7 +13,7 @@ Como modo de ampliar as minhas possibilidades no mercado de trabalho e abrir meu
 
 Bom, por enquanto é isso! Manterei meu perfil aqui no git atualizado com os meus projetos/aprendizados. Dê uma olhadinha lá ;)
 
-<strong>Minha Stack:</strong> JavaScript, TypeScript, NodeJS, ReactJS, Next.js.
+<strong>Minha Stack:</strong> JavaScript, TypeScript, NodeJS, ReactJS, NextJS.
 
 <strong>Caso queira conversar comigo:</strong>
  - Instagram: https://www.instagram.com/m.germiniani/
