@@ -17,7 +17,6 @@ Bom, por enquanto é isso! Manterei meu perfil aqui no git atualizado com os meu
 
 <strong>Caso queira me conversar comigo:</strong>
  - Instagram: https://www.instagram.com/m.germiniani/
- - Twitter: https://twitter.com/dmgerminiani
  - LinkedIn: www.linkedin.com/in/diego-m-germiniani
  
 
