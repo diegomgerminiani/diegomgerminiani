@@ -15,7 +15,7 @@ Bom, por enquanto é isso! Manterei meu perfil aqui no git atualizado com os meu
 
 <strong>Minha Stack:</strong> JavaScript, TypeScript, NodeJS, ReactJS, Next.js.
 
-<strong>Caso queira me conversar comigo:</strong>
+<strong>Caso queira conversar comigo:</strong>
  - Instagram: https://www.instagram.com/m.germiniani/
  - LinkedIn: www.linkedin.com/in/diego-m-germiniani
  
