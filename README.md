@@ -7,13 +7,15 @@ No passado, adquiri experiencia em C# quando 'brinquei' por um tempo com desenvo
 
 Buscando trilhar esse caminho, ingressei no curso de Ciência da Computação na Universidade Federal de Itajubá.
 
-Atualmente, sou desenvolvedor JavaScript na B2ML Sistemas, localizada em Itajubá-MG. Trabalho na B2ML à pouco mais de 2 ano e meio. Embora pareça pouco tempo, tive a oportunidade de planejar, desenvolver e testar aplicações web com as mais variadas finalidades, que vão desde aplicações Java para processamento dados em massa à Sistema de Gerenciamento de RH. Além disso tive a oportunidade de entrar em contato com os mais diversos profissionais e suas expertises. Além da minha ocupação fixa, realizo trabalhos como Freelancer, onde desenvolvo web sites para profissionais autônomos.
+Iniciei minha carreira como estagiario, atuando como desenvolvedor JavaScript na B2ML Sistemas, localizada em Itajubá-MG. Trabalhei na B2ML à pouco mais de 2 ano e meio. Embora pareça pouco tempo, tive a oportunidade de planejar, desenvolver e testar aplicações web com as mais variadas finalidades, que vão desde aplicações Java para processamento dados em massa à Sistema de Gerenciamento de RH. Além disso tive a oportunidade de entrar em contato com os mais diversos profissionais e suas expertises.
 
-Como modo de ampliar as minhas possibilidades no mercado de trabalho e abrir meus horizontes no mundo da programação, venho buscando estudar as principais tecnologias do mercado, com um olhar especial às novas tecnologias. Meu foco atual de estudos e aperfeiçoamento encontra-se no ReactJS e seus derivados. Basicamente, foi paixão a primeira vista! hahaha... A velocidade de processamento e a capacidade de reaproveitamento de código com que as aplicações React proporcionam é fantástica! Quanto mais estudo, mais me apaixono.
-
+Após esse período na B2ML Sistemas, fui convidado pela Talent Group a trabalhar na Qualicorp, uma administradora de benefícios de saúde localizada em São Paulo-SP, com atuação nacional. Atualmente estou a 2 anos e meio na Qualicorp, atuando como Desenvolvedor Fullstack.
+Essa oportunidade ampliou meus horizontes, proporcionando uma nova visão organizacional e de negócio, visto que além de estar em uma empresa de maior porte, também fui alocado em um ponto da cadeia de desenvolvimento onde havia trabalhado muito pouco: na sustentação de ferramentas em ambiente produtivo. Esse posicionamento me possibilitou visualizar todo o processo o desenvolvimento da ferramenta, desde a concepção das histórias de usuário até o deploy e manutenção dos desenvolvimentos.
+ 
 Bom, por enquanto é isso! Manterei meu perfil aqui no git atualizado com os meus projetos/aprendizados. Dê uma olhadinha lá ;)
 
-<strong>Minha Stack:</strong> JavaScript, TypeScript, NodeJS, ReactJS, NextJS.
+<strong>Stack Front-end:</strong> JavaScript/TypeScript, React.js, VUE.js.
+<strong>Stack Back-end:</strong> JavaScript/TypeScript, Node.js, Next.js, SQL Server, Neo4J.
 
 <strong>Caso queira conversar comigo:</strong>
  - Instagram: https://www.instagram.com/m.germiniani/
