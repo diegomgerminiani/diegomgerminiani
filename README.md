@@ -15,6 +15,7 @@ Essa oportunidade ampliou meus horizontes, proporcionando uma nova visão organi
 Bom, por enquanto é isso! Manterei meu perfil aqui no git atualizado com os meus projetos/aprendizados. Dê uma olhadinha lá ;)
 
 <strong>Stack Front-end:</strong> JavaScript/TypeScript, React.js, VUE.js.
+
 <strong>Stack Back-end:</strong> JavaScript/TypeScript, Node.js, Next.js, SQL Server, Neo4J.
 
 <strong>Caso queira conversar comigo:</strong>
